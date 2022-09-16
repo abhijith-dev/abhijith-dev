@@ -36,7 +36,7 @@
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
-<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=angular&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angular9.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=angular&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=mysqlt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a> 
 
