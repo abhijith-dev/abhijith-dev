@@ -33,7 +33,14 @@
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>   
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>   
-<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=angular&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angular.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=mysqlt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> 
+<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=bootsrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootsrap.svg'> </a> 
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/abhijith-shetty-207556186/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
