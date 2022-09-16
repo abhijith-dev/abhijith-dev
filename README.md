@@ -14,15 +14,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently working on  React.js + Next.js + Tailwind CSS 
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning Data Strucuture and TensorflowJS
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to work as full web and mobile development
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Ask me about MERN stack
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ "Krishnam Vande Jagadgurum".
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> 
@@ -39,11 +39,7 @@
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=angular&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=mysqlt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> 
 <a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a> 
-<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=web3js&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/web3js.svg'> </a> 
-<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=tenserflowjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflowjs.svg'> </a> 
-<a href= https://github.com/abhijith-dev?tab=repositories&q=&type=&language=datastructure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/datastructure.svg'> </a> 
-
-
+  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/abhijith-shetty-207556186/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/stuckend_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
