@@ -17,7 +17,7 @@
   
 - 🌱 I’m currently learning Data Strucuture and TensorflowJS
   
-- 👯 I’m looking to work as full web and mobile development
+- 👯 I’m looking to work as full web and mobile developer
   
 - 💬 Ask me about MERN stack
   
